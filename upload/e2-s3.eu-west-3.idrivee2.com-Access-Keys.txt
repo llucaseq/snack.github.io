@@ -1,0 +1,4 @@
+Endpoint: s3.eu-west-3.idrivee2.com
+Region Code: eu-west-3
+Access key ID: rHG05LaL6lLyq47MqsTP
+Secret Access Key: oXwv6INgKNoqXxTU5Fy7fQ91dpEA55gnsAmtMIpx
