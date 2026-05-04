@@ -1,0 +1,6 @@
+{
+  "lastRestore": "2026-05-03T03:38:04.530Z",
+  "message": "Database restored from backup: backups/backup-2026-05-03T03-37-45-169Z.json",
+  "safetyBackupKey": "backups/safety-2026-05-03T03-38-04-317Z.json",
+  "restoredFrom": "backups/backup-2026-05-03T03-37-45-169Z.json"
+}
